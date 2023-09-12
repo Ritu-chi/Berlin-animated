@@ -1,1 +1,11 @@
 # Berlin-animated
+# animation
+# HTML
+# CSS
+# JavaScript
+# FrontEnd
+# Github
+# Edit
+# Commitchanges
+# Ritu-chi
+# Help
